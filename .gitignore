@@ -1,0 +1,133 @@
+# =========================
+# UNITY GENERATED FOLDERS
+# =========================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# Unity cache
+Library/
+Artifacts/
+AssetImportWorker*
+UnityTempFile*
+
+# =========================
+# UNITY AUTO GENERATED FILES
+# =========================
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Rider
+.idea/
+*.DotSettings.user
+
+# VSCode
+.vscode/
+
+# Visual Studio
+.vs/
+
+# =========================
+# UNITY BUILD OUTPUT
+# =========================
+
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.dmg
+*.ipa
+
+# Addressables
+ServerData/
+
+# =========================
+# OS FILES
+# =========================
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# =========================
+# CRASH REPORTS
+# =========================
+
+sysinfo.txt
+
+# =========================
+# UNITY CLOUD BUILD
+# =========================
+
+unitycloudbuild/
+
+# =========================
+# IL2CPP
+# =========================
+
+il2cppOutput/
+
+# =========================
+# DEBUG / PROFILING
+# =========================
+
+*.stacktrace
+*.memsnap
+
+# =========================
+# PACKAGE MANAGER
+# =========================
+# Ignore everything
+Packages/*
+
+# Keep manifest and lock files
+!Packages/manifest.json
+!Packages/packages-lock.json
+
+# =========================
+# DOTNET / C#
+# =========================
+
+bin/
+obj/
+
+# =========================
+# ADDRESSABLES BUILD
+# =========================
+
+Assets/AddressableAssetsData/*/*.bin*
+Assets/AddressableAssetsData/*/*.hash
+
+# =========================
+# OPTIONAL: Ignore auto-generated lightmaps
+# Uncomment if you bake frequently and don't want to track them
+#
+# Assets/LightmapSnapshot*.lighting
+# Assets/LightmapSnapshot*.lighting.meta
+#
