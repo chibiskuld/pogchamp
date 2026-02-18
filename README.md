@@ -38,7 +38,7 @@ Just add a contact sender to your avatar with the collision tag, "PCSLAMMER". Po
 Feel free to create an issue here on github, or message me on Discord in the [Studio JAW discord server](https://discord.studiojaw.com/).
 
 # Contributing
-Feel free to ask to contribute to this project in the Discord server. Those who have contributed by pull request, I will not mind adding as project contributors.
+Feel free to ask to contribute to this project in the [Studio JAW discord server](https://discord.studiojaw.com/). Once someone has successfully made a pull request, and we have accepted it, we will also add you as project contributor.
 
 # Crediting in your Worlds
 It's not necessary, but if you chose to credit this project in your worlds, please credit it to the "MAGFest VRChat Portal Team". You may also add me to the credits if you feel it's necessary as "Skuld". But keep in mind as others are added as contributors they should also be given credit as well.
