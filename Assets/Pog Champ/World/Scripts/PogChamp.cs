@@ -72,6 +72,21 @@ namespace MilkCaps
 
             SlowUpdate();
             UpdatePlayers();
+            if (Networking.IsOwner(gameObject))
+            {
+                pool = 100;
+                seed = UnityEngine.Random.Range(0.0f, 1.0f);
+
+                pogs.sharedMaterial.SetFloat("_PogSeed",seed);
+                pogs.sharedMaterial.SetFloat("_Pogs",pool);            
+            }
+            pogs.sharedMaterial.SetFloat("_PogAnimation",0.0f);
+        }
+
+        public override void OnDeserialization()
+        {
+            pogs.sharedMaterial.SetFloat("_PogSeed",seed);
+            pogs.sharedMaterial.SetFloat("_Pogs",pool);            
         }
 
         void OnDisable()

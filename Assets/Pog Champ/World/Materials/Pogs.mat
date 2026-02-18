@@ -144,7 +144,7 @@ Material:
     - _PogLandingOffset: -0.055
     - _PogOffset: 33
     - _PogScale: 4
-    - _PogSeed: 0.7303091
+    - _PogSeed: 0
     - _Pogs: 100
     - _ReflectType: 2
     - _Reflectiveness: 0

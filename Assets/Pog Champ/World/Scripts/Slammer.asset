@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: Slammer
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: edc73e8a19f46fe48ace4057892c7fe5,
-    type: 2}
+  serializedUdonProgramAsset: {fileID: 11400000, guid: edc73e8a19f46fe48ace4057892c7fe5, type: 2}
   udonAssembly: 
   assemblyError: 
   sourceCsScript: {fileID: 11500000, guid: cc8e343302c35834da512b3ecc0a50f0, type: 3}
